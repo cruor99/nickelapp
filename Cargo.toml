@@ -1,0 +1,10 @@
+[package]
+name = "nickel-app"
+version = "0.1.0"
+authors = ["Cruor99 <kliknes@gmail.com>"]
+
+[dependencies]
+nickel = "*"
+rustc-serialize = "*"
+mongodb = "0.1.0"
+bson = "0.1.3"
